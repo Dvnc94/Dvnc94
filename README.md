@@ -4,8 +4,6 @@
 
 # Hi, it's me again 👋
 
-> I am full-stack developer, passionate about developing solutions helping the student community. I am currently pursuing Masters in Computer Science from University of California - Riverside. 
-
 <br />
 <a href="https://dvnc94.github.io/Portfolio/">
   <img align="left" alt="Divyanshi's Portfolio" width="22px" src="https://github.com/Dvnc94/Portfolio/blob/master/react_ui/public/dvncLogo.png" />
@@ -22,6 +20,7 @@
 
 <br />
 <br />
+> I am full-stack developer, passionate about developing solutions helping the student community. I am pursuing Masters in Computer Science from University of California - Riverside. 
 
 - 🔭 I’m currently working on making the best of 2020
 - 🌱 I’m currently learning django
