@@ -2,9 +2,9 @@
   <img src="https://github.com/Dvnc94/Portfolio/blob/master/ezgif.com-video-to-gif.gif">
 </div>
 
-### Hi, it's me again 👋
+# Hi, it's me again 👋
 
-I am full-stack developer, passionate about developing solutions helping the student community. I am currently pursuing Masters in Computer Science from University of California - Riverside. 
+> I am full-stack developer, passionate about developing solutions helping the student community. I am currently pursuing Masters in Computer Science from University of California - Riverside. 
 
 <br />
 <a href="https://dvnc94.github.io/Portfolio/">
