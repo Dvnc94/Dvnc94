@@ -7,6 +7,7 @@
 I am full-stack developer, passionate about developing solutions helping the student community. I am currently pursuing Masters in Computer Science from University of California - Riverside. 
 
 <br />
+<br />
 <a href="https://dvnc94.github.io/Portfolio/">
   <img align="left" alt="Divyanshi's Portfolio" width="22px" src="https://github.com/Dvnc94/Portfolio/blob/master/react_ui/public/dvncLogo.png" />
 </a>
@@ -20,6 +21,7 @@ I am full-stack developer, passionate about developing solutions helping the stu
   <img align="left" alt="Divyanshi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<br />
 <br />
 
 - 🔭 I’m currently working on making the best of 2020
