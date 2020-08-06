@@ -1,4 +1,6 @@
-![](ezgif.com-video-to-gif.gif)
+<div align='center'>
+  <img src="https://github.com/Dvnc94/Portfolio/blob/master/ezgif.com-video-to-gif.gif">
+</div>
 
 ### Hi there 👋
 <!--
