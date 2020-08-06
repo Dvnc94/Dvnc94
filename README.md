@@ -3,6 +3,10 @@
 </div>
 
 ### Hi, it's me again 👋
+
+I am full-stack developer, passionate about developing solutions helping the student community. I am currently pursuing Masters in Computer Science from University of California - Riverside. 
+
+<br />
 <a href="https://dvnc94.github.io/Portfolio/">
   <img align="left" alt="Divyanshi's Portfolio" width="22px" src="https://github.com/Dvnc94/Portfolio/blob/master/react_ui/public/dvncLogo.png" />
 </a>
@@ -16,7 +20,13 @@
   <img align="left" alt="Divyanshi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-I am full-stack developer, passionate about developing solutions helping the student community
+<br />
+
+- 🔭 I’m currently working on making the best of 2020
+- 🌱 I’m currently learning django
+- 💬 Ask me about React
+- 📫 How to reach me: dsriv005@ucr.edu
+- 😄 Pronouns: She/her
 
 **Languages and Tools:**  
 
@@ -26,7 +36,9 @@ I am full-stack developer, passionate about developing solutions helping the stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
+...
+
 
 May the force be with you!
 
