@@ -1,7 +1,6 @@
-### Hi there 👋
-
 ![](ezgif.com-video-to-gif.gif)
 
+### Hi there 👋
 <!--
 **Dvnc94/Dvnc94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
