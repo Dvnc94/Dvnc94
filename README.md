@@ -25,7 +25,7 @@ I am full-stack developer, passionate about developing solutions helping the stu
 - 🔭 I’m currently working on making the best of 2020
 - 🌱 I’m currently learning django
 - 💬 Ask me about React
-- 📫 How to reach me: dsriv005@ucr.edu
+- 📫 How to reach me: divyanshi1350@gmail.com
 - 😄 Pronouns: She/her
 
 **Languages and Tools:**  
@@ -38,7 +38,8 @@ I am full-stack developer, passionate about developing solutions helping the stu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 ...
-
+<br />
+<br />
 
 May the force be with you!
 
