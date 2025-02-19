@@ -21,8 +21,7 @@
 > I am full-stack developer, passionate about developing solutions helping the student community. I am pursuing Masters in Computer Science from University of California - Riverside. 
 
 
-- 🔭 I’m currently working on making the best of 2021
-- 🌱 I’m currently learning django
+- 🔭 I’m currently working on making the best of 2025
 - 💬 Ask me about React
 - 📫 How to reach me: divyanshi1350@gmail.com
 - 😄 Pronouns: She/her
